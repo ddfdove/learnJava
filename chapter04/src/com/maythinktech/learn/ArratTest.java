@@ -10,4 +10,5 @@ package com.maythinktech.learn;
  * @Version 1.0
  */
 public class ArratTest {
+
 }

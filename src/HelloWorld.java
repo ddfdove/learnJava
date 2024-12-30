@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 public class HelloWorld {
     public static void main(String[] args) {
-        //这是单行注释
+
         System.out.println("helloWorld");
 
         Scanner scann=new Scanner(System.in);

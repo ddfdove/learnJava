@@ -8,4 +8,8 @@
  * @Version 1.0
  */
 public class hello {
+
+    public void method(){
+
+    }
 }
